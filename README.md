@@ -1,10 +1,10 @@
 Hydrate Me
 ==========
 
-iOS application monitoring hydratation levels with Empatica E3 wristband https://www.empatica.com/product-e4 .
+iOS application monitoring hydration levels with Empatica E3 wristband https://www.empatica.com/product-e4 .
 The wristband measures (apart from other data) skin conductivity. It is to some extent possible to extrapolate 
-current hydratation from this, which would be a great help for people over 50 - with age you lose sense to your 
-hydratation levels which can be fatal on sunny day. 
+current hydration from this, which would be a great help for people over 50 - with age you lose sense to your 
+hydration levels which can be fatal on sunny day. 
 
 In the end too many factors turned out to be affecting the readings, so medical use
 was unatainable. Therefore the project was enhanced with water intake tracking and function that used Estimote 
