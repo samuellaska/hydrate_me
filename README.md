@@ -10,7 +10,7 @@ In the end too many factors turned out to be affecting the readings, so medical 
 was unatainable. Therefore the project was enhanced with water intake tracking and function that used Estimote 
 Beacon attached to your water bottle to alert you if you forgot to bring your watter with you. http://estimote.com/
 
-Hydrate me was a project that won 3rd place on Empatica Hackmed in Milano https://www.empatica.com/hackmed/ 
+Hydrate me was a project that won 3rd place on Empatica Hackmed in Milano https://www.empatica.com/hackmed/ .
 Thanks to Riccardo Arciulo and Olga Pustovalova for science & data help and wonderful guys from Empatica 
 https://www.empatica.com/ for fun weekend :) 
 
